@@ -1,0 +1,3 @@
+void function ss(){
+i=j+kk;
+}
